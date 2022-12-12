@@ -1,0 +1,15 @@
+diffusers>=0.5.1
+numpy
+wandb
+torch
+torchvision
+transformers
+huggingface-hub
+Pillow
+tqdm
+ftfy
+bitsandbytes
+pynvml
+psutil
+accelerate
+scipy
